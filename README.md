@@ -1,7 +1,7 @@
 # Group-4-Project
-# 📊 Sharon's Human Resource Report
+# 📊 Human Resource Report
 
-Welcome to the repository for **Sharon's Human Resource Report**, a data-driven analysis of employee metrics including compensation, tenure, job satisfaction, and attrition. This report uses visualizations and summary statistics to uncover trends and guide strategic HR decisions.
+Welcome to the repository for **Human Resource Report**, a data-driven analysis of employee metrics including compensation, tenure, job satisfaction, and attrition. This report uses visualizations and summary statistics to uncover trends and guide strategic HR decisions.
 
 ---
 
