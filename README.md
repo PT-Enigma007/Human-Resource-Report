@@ -1,45 +1,70 @@
-# Group-4-Project
 # 📊 Human Resource Report
 
-Welcome to the repository for **Human Resource Report**, a data-driven analysis of employee metrics including compensation, tenure, job satisfaction, and attrition. This report uses visualizations and summary statistics to uncover trends and guide strategic HR decisions.
+## 🔹 Overview
+This Human Resource Report provides insights into employee distribution, compensation, tenure, demographics, and job satisfaction across the organization. The goal is to highlight key workforce trends and help management make data-driven HR decisions.
 
 ---
 
-## 🧮 Summary Statistics
-
-| Metric                        | Value     |
-|------------------------------|-----------|
-| **Total Employee Count**     | 1,470     |
-| **Average Monthly Income**   | \$6,502.93 |
-| **Average Years at Company** | 7.01      |
-
----
-
-## 📈 Key Visualizations
-
-### 1. Daily Rate by Department and Attrition
-- Departments: Research & Development, Sales, Human Resources
-- Insight: Employees in Research & Development who stayed have the highest daily rates.
-
-### 2. Age Distribution by Tenure
-- Shows fluctuations in age sum across years at the company.
-- Peaks suggest clusters of long-tenured employees.
-
-### 3. Environment Satisfaction by Job Role
-- Highest satisfaction reported by Sales Executives.
-- Useful for role-specific engagement strategies.
-
-### 4. Hourly Rate by Gender
-- Gender split: Female (59.99%), Male (40.01%)
-- Females have a higher total hourly rate.
+## 📌 Key Metrics
+- **Average Daily Rate:** 802.49  
+- **Total Employee Count:** 1,470  
+- **Total Job Roles:** 9  
+- **Average Years at Company:** 7.01  
+- **Average Age:** 36.92 years  
+- **Average Job Satisfaction:** 2.73 / 5  
 
 ---
 
-## 🧠 Strategic Implications
+## 📊 Department & Gender Analysis
+- **Daily Rate by Department & Gender**  
+  - Human Resources: Males earn significantly more (≈ 890) than females (≈ 687).  
+  - Research & Development: Relatively balanced (Male ≈ 819, Female ≈ 789).  
+  - Sales: Females have higher rates (≈ 839) compared to males (≈ 772).  
 
-- **Retention**: Improve compensation and satisfaction in high-attrition departments.
-- **Equity**: Review gender-based pay distribution.
-- **Career Development**: Use tenure data to guide promotion paths.
-- **Role Optimization**: Enhance conditions for roles with lower satisfaction.
+📌 *Insight:* Gender pay disparities exist across certain departments, with HR showing the largest gap.
+
+---
+
+## 👥 Employee Distribution
+- **By Job Role**  
+  - Sales Executives: **326 employees** (largest group).  
+  - Research Scientists: **292 employees**.  
+  - Laboratory Technicians: **259 employees**.  
+  - Smallest group: Human Resources with **52 employees**.  
+
+📌 *Insight:* Sales Executives and Research Scientists dominate the workforce.
+
+---
+
+## 📈 Tenure & Age Analysis
+- **Years at Company vs. Age**  
+  - Clear upward trend: older employees generally have longer tenure.  
+  - Employees in their **40s and 50s average 10–12 years** of experience.  
+  - Younger employees (<25) typically have little or no tenure.  
+
+📌 *Insight:* Strong correlation between age and tenure, indicating long-term retention for mid-career employees.
+
+---
+
+## 😀 Job Satisfaction
+- **By Gender**  
+  - Males: **2.68** (49.3%).  
+  - Females: **2.76** (50.7%).  
+  - Overall: **2.73 average**.  
+
+📌 *Insight:* Satisfaction levels are almost equal between genders, though both remain below the midpoint of 3.0, suggesting room for improvement.
+
+---
+
+## 📌 Summary & Recommendations
+- Address **gender pay disparities**, particularly in Human Resources.  
+- Explore initiatives to **improve job satisfaction**, as overall ratings remain below average.  
+- Focus on **employee retention strategies** for younger staff to balance tenure distribution.  
+- Consider workforce **reskilling and upskilling** to strengthen departments with lower employee counts.
+
+---
+
+✅ This report provides a foundation for strategic HR decision-making and can be used to track improvements over time.
+
 
 
